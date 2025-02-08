@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739043272 source:g:\projects sem\project\banking system azan\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+
